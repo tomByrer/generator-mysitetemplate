@@ -1,4 +1,4 @@
-# generator-mysitetemplate [![Build Status](https://secure.travis-ci.org/sableloki/generator-mysitetemplate.png?branch=master)](https://travis-ci.org/sableloki/generator-mysitetemplate)
+# generator-mysitetemplate 
 
 A generator for [Yeoman](http://yeoman.io).
 creates a basic site template with twitter bootstrap 3

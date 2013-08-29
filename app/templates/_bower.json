@@ -1,6 +1,10 @@
 {
   "name": "package",
   "version": "0.0.0",
-  "dependencies": {}
+  "dependencies": {
+  	"jquery": "~2.0.3",
+  	"jquery-ui": "~1.2.4",
+  	"bootstrap-sass": "~3.0.0"
+  }
 }
 

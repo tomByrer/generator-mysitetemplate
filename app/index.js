@@ -37,8 +37,9 @@ MysitetemplateGenerator.prototype.askFor = function askFor() {
 };
 
 MysitetemplateGenerator.prototype.app = function app() {
-  this.mkdir('app');
-  this.mkdir('app/templates');
+  this.mkdir('styles');
+  this.mkdir('scripts');
+  this.mkdir('scripts/libs');
 
   this.copy('_package.json', 'package.json');
   this.copy('_bower.json', 'bower.json');
@@ -46,5 +47,5 @@ MysitetemplateGenerator.prototype.app = function app() {
 
 MysitetemplateGenerator.prototype.projectfiles = function projectfiles() {
   this.copy('editorconfig', '.editorconfig');
-  this.copy('jshintrc', '.jshintrc');
+  this.copy('_index.html', 'index.html');
 };

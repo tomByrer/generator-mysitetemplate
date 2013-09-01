@@ -1,7 +1,7 @@
 # generator-mysitetemplate 
 
 A generator for [Yeoman](http://yeoman.io).
-creates a basic site template with twitter bootstrap 3
+creates a basic site template with [Bootstrap 3](http://getbootstrap.com/)
 
 ## Getting Started
 

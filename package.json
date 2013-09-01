@@ -1,6 +1,6 @@
 {
   "name": "generator-mysitetemplate",
-  "version": "0.0.3",
+  "version": "0.5.1",
   "description": "creates a basic site template with twitter bootstrap 3",
   "keywords": [
     "yeoman-generator"
